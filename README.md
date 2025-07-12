@@ -1,1 +1,1 @@
-A web application that visually demonstrates how different sorting algorithms work step-by-step. Built using HTML, CSS, and JavaScript.
+ It allows users to learn and visualize how different sorting algorithms operate and sort array elements.
